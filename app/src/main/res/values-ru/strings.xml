@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Необычныйэкран</string>
+    <string name="emailLabel">е-мейл</string>
+    <string name="extensionLabel">Расширение</string>
+    <string name="departmentLabel">Отделение</string>
+    <string name="supervisorLabel">супервизор</string>
+    <string name="directReportsLabel">Прямые отчеты</string>
+</resources>
